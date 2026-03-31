@@ -8,6 +8,8 @@ In Order of Completion
 Lab 1: Hashing and Blockchain
 <head>
  <img src='Lab1.jpg' width='10%' />
+ <img src='Lab2.webp' width='10%' />
+ <img src='Lab3.webp' width='10%' />
 </head>
 
 Solving the ciphers made by other students using CyberChef

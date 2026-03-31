@@ -1,3 +1,8 @@
+Github \
+https://github.com/Fake-Bobcat/Cyber-Portfolio
+
+I've completed 25 tasks for Part 1. On the github is a markdown file of this pdf. I learnt a lot of new things about cybersecurity, physical security and AI from completing this section of the portfolio. All the tasks are ordered in the time at which I completed them. All the screenshots and images I used were found by me.
+
 # **Part 1**
 In Order of Completion
 
@@ -265,7 +270,17 @@ https://www.cnet.com/home/security/best-smart-locks/
 
 **A23. Enhance the cybersecurity at your home.**
 
+Firstly, Since Bitdefender is installed on all desktop devices on my home network, I conducted full system and vulnerability scans on all desktop devices on the network. This scan is the one I conducted on my own personal computer
 
+<head>
+ <img src='Bitdefender/SystemScan.png' width='25%' />
+ <img src='Bitdefender/SystemScan2.png' width='25%' />
+ <img src='Bitdefender/SystemScan3.png' width='25%' />
+</head>
+
+I then changed the wifi password on the router to remove all old devices that still had access to the network. So in the case that any of them were compromised, the network password they have would not be able to connect to my home network. I then reconnected all the devices on the home network using the new password. The old password used personal information that could have been used to guess the password, but now it uses random letters in both uppercase and lowercase, special characters and numbers.
+
+I also changed all the passwords to the desktop devices on the network, making them more secure and protected against brute force attacks, or if any of the passwords have been compromised online as my family uses the same passwords for many of their accounts and devices.
 
 ---
 
@@ -302,11 +317,15 @@ Prompting DeepSeek to just repeat the plain text that was reversed will result i
  <img src='AI_Injection/AI_Injection2.png' width='25%' />
 </head>
 
-Normally, DeepSeek would refuse to repeat the text alone and provide an explanation.
+Normally, DeepSeek would refuse to repeat the text alone and provide an explanation, making this a prompt injection attack as the AI has accepted and carried out a prompt that would usually be rejected because of the AI's strict boundaries designed to prevent this.
 
 ---
 
+**A19. Join a CS/DS/cybersecurity club.**
 
-
+I joined CFC (Coders for Causes), which is a not-for-profit coding organisation that provides free programming projects for charities and the community
+<head>
+ <img src='CFC.png' width='25%' />
+</head>
 
 ---
